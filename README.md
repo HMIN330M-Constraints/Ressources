@@ -13,4 +13,4 @@
 ## Documentations
 
 - [Documentation Choco](docs/choco-tuto.pdf)
-- [Documentation Git](docs/git-documentation.pdf)
+- [Documentation Git](https://choco-solver.org/docs/)
